@@ -1,4 +1,4 @@
 git+https://github.com/adsabs/ADSMicroserviceUtils.git@v1.1.9
 git+https://github.com/adsabs/ADSParser.git@v1.0.3
 future==0.18.2
-webargs==5.5.3
+webargs==6.0.0
